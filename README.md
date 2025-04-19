@@ -1,4 +1,4 @@
-Simple Mp3 player
+Mp3 player with tkinter for GUI and Pygame for audio libraries.
 
 
 
